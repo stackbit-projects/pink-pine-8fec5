@@ -63,6 +63,7 @@ params:
         style: icon
         icon_class: github
         new_window: true
+  domain: 'https://pink-pine-8fec5.netlify.app'
 taxonomies:
   stub: stub
 disableKinds:
